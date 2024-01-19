@@ -1,3 +1,5 @@
+#Intial Commit
+
 a=s(a*b)
 b=c(b*c)
 c=f(c*b)
